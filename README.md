@@ -9,10 +9,14 @@
 
 - 🔭 I’m currently working on [Laravel API](https://github.com/Mahiuddin-Noyon/API-Laravel/)
 
+- 📫 How to reach me **mahiuddin.noyon@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mahiuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahiuddin" height="30" width="40" /></a>
-<a href="https://instagram.com/mahiuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahiuddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-mahiuddin-927163199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mahiuddin-927163199/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/noyoner.moni.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/noyoner.moni.1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
